@@ -1,7 +1,7 @@
 {
-  "name": "arkantos_ts",
+  "name": "arkantos",
   "version": "1.0.0",
-  "description": "Trading bot across popular exchanges",
+  "description": "Trading bot across popular exchanges built using GTT",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

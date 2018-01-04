@@ -5,7 +5,7 @@ import * as input from "inquirer";
 import * as GTT from "gdax-trading-toolkit";
 
 // Bitfinex Imports
-import { BitfinexTracker } from "./lib/BitfinexTracker";
+import { BitfinexTracker } from "./src/BitfinexTracker";
 import { BitfinexConfig } from "gdax-trading-toolkit/build/src/exchanges/bitfinex/BitfinexExchangeAPI";
 
 const CONFIG = require("/config.json");
