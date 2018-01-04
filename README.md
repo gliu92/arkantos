@@ -7,4 +7,4 @@ To build:
 2) run "npm install" to install all node modules
 3) run "npm install -g ts-node typescript"
 4) run "npm run build" each time you make changes to the src
-5) ark <command> to test and run arkantos!
+5) ark [command] to test and run arkantos!
